@@ -1,0 +1,197 @@
+.box-one {
+  position: static;
+  	width: 200px;
+  	height: 200px;
+  	background: #ee3e64;
+}
+
+.box-two {
+  position: static;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+.box-three {
+  position: static;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
+
+.b1{
+  position: relative;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+.b2{
+  position: relative;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+.b3{
+  position: relative;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
+
+.c1{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #ee3e64;
+}
+
+.c2{
+  position: relative;
+	left: 200px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+.c3{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #b7d84b;
+}
+
+.d1{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #ee3e64;
+}
+.d2{
+  position: relative;
+	left: 200px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+.d3{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #b7d84b;
+}
+
+.e1{
+  position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+.e2{
+  position: absolute;
+	top: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+.e3{
+  position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
+
+.e4{
+  position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #ebde52;
+}
+
+
+.f1{
+  position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+.f2{
+  position: absolute;
+	top: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+ .a{
+  position: absolute;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+	background: red;
+}
+
+.b{
+  position: absolute;
+	top: 20px;
+	right: 20px;
+	bottom: 20px;
+	left: 20px;
+	background: white;
+}
+
+.h1{
+  position: absolute;
+	top: 0;
+	right: 20%;
+	bottom: 0;
+	left: 0;
+	background: #ee3e64;
+}
+
+.h2{
+  position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 80%;
+	background: #b7d84b;
+}
+.h2-one, .h3-one{
+  width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+.h2-two{
+  position: absolute;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+.h3-two{
+  position: absolute;
+	top: 0;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+
+}
